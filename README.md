@@ -16,14 +16,3 @@ This is a basic Express.js server used for JS Dev Experience documentation, in p
 
 1. Clone repo.
 
-1. Install dependencies: 
-
-    ```bash
-    npm install
-    ```
-
-1. Start project: 
-
-    ```bash
-    npm start
-    ```
